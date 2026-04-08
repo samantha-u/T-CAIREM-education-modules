@@ -8,6 +8,7 @@ nav: Intro to ML in Healthcare
 This section provides an introduction to applying machine learning in healthcare. 
 
 **Data type**: Tabular EHR
+
 **Model type**: Logistic regression (as a first model!)
 
 # Presentation
