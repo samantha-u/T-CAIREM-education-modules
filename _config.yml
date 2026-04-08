@@ -11,29 +11,29 @@
 # SITE SETTINGS
 #
 # title appears in the header
-title: Learn-Static Lesson Template
+title: AI in Medicine Education Modules
 # title-icon appears in the header to give some pizazz (leave blank for none)
 # choose from Bootstrap Icons in _includes/bootstrap-icons
 # find names on https://icons.getbootstrap.com/ (or look in "_includes/bootstrap-icons")
 # some options: code-slash file-code gear tools lightblub book bookmark-star
-title-icon: code-slash
+title-icon: heart-pulse
 # description appears in sidebar footer
-description: "Create a lesson website with markdown"
+description: "Education modules for artificial intelligence in medicine"
 # keywords for meta tags used by search engines
-keywords: "workshops, websites, gh-pages, jekyll"
+keywords: "AI, medicine, education"
 # image for meta tags, will appear when sharing link on social media
 featured-image: "/images/uidaho-workshop.jpg"
 
 # author name, displayed in credits
-author: evanwill
+author: samantha
 # year or date published, displayed in sidebar
-publication_year: 2022
+publication_year: 2026
 # location of code, the full url to your github repository
-source-code: https://github.com/learn-static/lesson-template
+source-code: https://github.com/samantha-u/T-CAIREM-education-modules
 # content license (typically "cc by-sa"), displayed in sidebar
-content_license: "CC BY-SA"
+content_license: "CC BY-NC-SA"
 # URL to the content license
-content_license_link: https://creativecommons.org/licenses/by-sa/4.0/
+content_license_link: https://creativecommons.org/licenses/by-nc-sa/4.0/
 
 ##########
 # THEME CUSTOMIZATION [optional!]
@@ -43,11 +43,11 @@ content_license_link: https://creativecommons.org/licenses/by-sa/4.0/
 #
 # header-background: 
 # header-text-color: 
-# breadcrumbs-background: 
-# breadcrumbs-text-color: 
-# active-nav-color: 
+breadcrumbs-background: "#00285b"
+breadcrumbs-text-color: "#ffffff"
+active-nav-color: "#a7cdff"
 # link-color:
-# next-button-color:
+next-button-color: "#00285b"
 # text-color: 
 # base-font-size:
 
@@ -99,7 +99,7 @@ search_heading_level: 3
 # ROBOTS EXCLUDE [optional!]
 #
 # set noindex to true if you do NOT want Google to index your site
-# noindex: true 
+noindex: true 
 
 
 #######
