@@ -1,8 +1,8 @@
 ---
-section_id: Algorithm Architectures
+section_id: "Algorithm Architectures"
 nav_order: 3
-title: Regression Models
-nav: Regression Models
+title: "Regression Models"
+nav: "Regression Models"
 ---
 
 This section explores how to predict hospital length of stay (a continuous outcome) using regression models, with a focus on non-linearity, clinical thresholds, and fairness.
