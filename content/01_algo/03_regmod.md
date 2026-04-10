@@ -1,6 +1,6 @@
 ---
 section_id: Algorithm Architectures
-nav_order: 2
+nav_order: 3
 title: Intro to Machine Learning in Healthcare
 nav: Intro to ML in Healthcare
 ---
