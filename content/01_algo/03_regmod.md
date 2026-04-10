@@ -1,6 +1,6 @@
 ---
-section_id: "Algorithm Architectures"
-nav_order: 3
+section: "Algorithm Architectures"
+nav_order: 2
 title: "Regression Models"
 nav: "Regression Models"
 ---
