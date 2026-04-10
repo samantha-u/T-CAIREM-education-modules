@@ -1,0 +1,25 @@
+!mamba install pandas numpy matplotlib scikit-learn
+
+# M2S3: Regression Models – Hospital Length of Stay
+import pandas as pd
+import numpy as np
+import matplotlib.pyplot as plt
+from sklearn.linear_model import LinearRegression
+from sklearn.tree import DecisionTreeRegressor
+
+# Load Data
+df = pd.read_csv("covid_los_synthetic.csv")
+print("Data loaded successfully! First 5 rows:")
+display(df.head())
+
+# Simple Linear Regression (Age vs LOS)
+X = df[['age']]
+y = df['los']
+model = LinearRegression()
+model.fit(X, y)
+print(f"\nLinear Regression Equation: LOS = {model.coef_[0]:.2f} * Age + {model.intercept_:.2f}")
+
+# Tree Model
+tree = DecisionTreeRegressor(max_depth=3)
+tree.fit(X, y)
+print("\nDecision Tree fit successfully!")
