@@ -14,7 +14,7 @@ This section explores how to predict hospital length of stay (a continuous outco
 
 <iframe src="https://utoronto-my.sharepoint.com/personal/samantha_unger_mail_utoronto_ca/_layouts/15/Doc.aspx?sourcedoc={75ddc51a-3218-4e68-b7db-57a902126f56}&amp;action=embedview&amp;wdAr=1.7777777777777777" width="476px" height="288px" frameborder="0" title="PowerPoint Viewer">This is an embedded Microsoft Office presentation, powered by Office.</iframe>
 
-Download the presentation [here](M2S3_slides.html)  
+Download the presentation [here]([M2S3_slides.html](https://utoronto-my.sharepoint.com/:p:/r/personal/samantha_unger_mail_utoronto_ca/_layouts/15/Doc.aspx?sourcedoc=%7B75DDC51A-3218-4E68-B7DB-57A902126F56%7D&file=M2S3%20Draft.pptx&action=edit&mobileredirect=true))  
 Download the video narration script [here](M2S3_video_script.md)
 
 ## Hands-On Exercise
