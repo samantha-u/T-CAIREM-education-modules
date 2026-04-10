@@ -27,7 +27,7 @@ In this exercise, you will analyze a synthetic dataset calibrated to Canadian CI
 ## Resources
 
 * [TeachYourselfCS - Conceptual Foundations](https://teachyourselfcs.com/)
-* [DataCamp - Machine Learning for Everyone](https://www.datacamp.com/courses/machine-learning-for-everyone)
+* [Google Machine Learning Crash Course - Linear Regression](https://developers.google.com/machine-learning/crash-course/linear-regression)
 
 {% capture text %}Note: When starting the hands-on exercise, ensure the synthetic dataset CSV is saved in the exact same folder as your Jupyter notebook so the code runs smoothly!{% endcapture %} 
 {% include alert.html text=text color=secondary %}
